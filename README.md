@@ -1,5 +1,5 @@
 # ProvingTheRH2022.GitHub.io
 
-/上课我看去欧尚可我觉得就
-# 是完全失去寄送请问
-# 死亡骑士我就
+### Changed
+- Start using "changelog" over "change log" since it's the common usage.
+- Start versioning based on the current English version at 0.3.0 to help
